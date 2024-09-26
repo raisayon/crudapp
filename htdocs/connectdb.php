@@ -2,8 +2,8 @@
 
 define("HOSTNAME","localhost");
 define("USERNAME","root");
-define("PASSWORD","Micros0ft");
-define("DATABASE","orezaar");
+define("PASSWORD","");
+define("DATABASE","");
 
 // Create connection
 $connection = mysqli_connect(HOSTNAME,USERNAME,PASSWORD,DATABASE);
